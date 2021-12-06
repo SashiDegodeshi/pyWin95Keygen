@@ -3,7 +3,8 @@
 windowskeygen.py - Generates Windows 95 and 95 OEM keys using the modulus 7 check algorithm
 
 
-Just download and call as a module via import. The just call the function as one does normally.
+Just download and drop in the directory you are using for the script you're currently writing, or drop it in your python module directory to call it from anywhere.
+Then just import the function as one does normally.
 
 keygen95() - Generates a retail 95 key that works on all 95 era software, not just the OS.
 keygen95oem() - Generates an OEM 95 key.
