@@ -7,6 +7,7 @@ Just download and drop in the directory you are using for the script you're curr
 Then just import the function as one does normally.
 
 `keygen95()` - Generates a retail 95 key that works on all 95 era software, not just the OS.
+
 `keygen95oem()` - Generates an OEM 95 key.
 
 
