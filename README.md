@@ -1,6 +1,6 @@
-# w95keygen-python
+# Windows 95 Keygen
 
-windowskeygen.py - Generates Windows 95 and 95 OEM keys using the modulus 7 check algorithm
+windowskeygen.py - Generates Windows 95 and 95 OEM keys using the modulus 7 check algorithm. These keys also work on some licensed Microsoft applications of that era.
 
 
 Just download and drop in the directory you are using for the script you're currently writing, or drop it in your python module directory to call it from anywhere.
@@ -32,3 +32,6 @@ while count > 0:
   print(wkg.keygen95())
   count = count - 1
 ```
+
+Although Windows 95 and it's associated software is considered abandonware, Microsoft may not like the fact keys are being generated for it.
+That being said, this is a proof of concept piece of sourcecode. I'm not responsible for how you choose to use it.
